@@ -1,8 +1,10 @@
-# Projeto para Estudo do Flutter
+# Projeto 1 para Estudo do Flutter
 
 Funcionalidade de Aprender o Basico do Flutter/Dart
 
-## Este projeto foi usado com o Curso do Professor (Daniel Ciolfi)
+## Aplicativo de Contador de Pessoas
+
+### Este projeto foi usado com o Curso do Professor (Daniel Ciolfi)
 
 Se desejar ver este curso procure no link abaixo.
 
